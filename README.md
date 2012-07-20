@@ -1,4 +1,4 @@
-# NVD3 Rails - reusable chart for rails 3
+# NVD3 Rails - reusable charts for rails 3
 
 ## Install
 
