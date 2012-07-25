@@ -4,7 +4,7 @@
 
 To include nvd3-rails into your rails project add
 
-    gem "nvd3-rails", :git => "git@github.com:adeven/nvd3-rails.git"
+    gem "nvd3-rails", :git => "git@github.com:adeven/nvd3-rails.git", :submodules => true
 
 To your Projects Gemfile.
 
