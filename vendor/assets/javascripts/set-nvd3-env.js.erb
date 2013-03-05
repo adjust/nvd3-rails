@@ -1,0 +1,5 @@
+/**
+ set nv.dev according to Rails.env
+ */
+
+window.nv.dev = <%= Rails.env.development? ? true : false %>
