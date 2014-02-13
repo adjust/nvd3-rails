@@ -1,3 +1,3 @@
 [submodule "vendor/assets/javascripts/nvd3"]
 	path = vendor/assets/javascripts/nvd3
-	url = git://github.com/adeven/nvd3.git
+	url = git://github.com/novus/nvd3.git
